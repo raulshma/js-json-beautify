@@ -1,0 +1,19 @@
+{
+  "name": "json_viewer",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": {
+    "name": "raulshma",
+    "email": "me@raulshma.xyz"
+  },
+  "devDependencies": {
+    "vite": "^2.3.8"
+  },
+  "dependencies": {
+    "@alenaksu/json-viewer": "^0.2.0"
+  }
+}
